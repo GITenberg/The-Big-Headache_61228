@@ -5,6 +5,9 @@ contributor:
     agent_name: Dyas
     gutenberg_agent_id: '51272'
     url: http://www.gutenberg.org/2009/agents/51272
+covers:
+- cover_type: archival
+  image_path: 61228-h/images/cover.jpg
 creator:
   author:
     agent_name: Harmon, Jim
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35040
     wikipedia: https://en.wikipedia.org/wiki/Jim_Harmon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61228#The-Big-Headache
 gutenberg_issued: '2020-01-24'
 gutenberg_type: Text
 identifiers:
