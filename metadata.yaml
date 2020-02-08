@@ -1,0 +1,34 @@
+_repo: The-Big-Headache_61228
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dyas
+    gutenberg_agent_id: '51272'
+    url: http://www.gutenberg.org/2009/agents/51272
+creator:
+  author:
+    agent_name: Harmon, Jim
+    alias: Harmon, James Judson
+    birthdate: 1933
+    deathdate: 2010
+    gutenberg_agent_id: '35040'
+    url: http://www.gutenberg.org/2009/agents/35040
+    wikipedia: https://en.wikipedia.org/wiki/Jim_Harmon
+description: ''
+gutenberg_issued: '2020-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scientists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Experiments -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Big Headache
+url: http://www.gutenberg.org/ebooks/61228
